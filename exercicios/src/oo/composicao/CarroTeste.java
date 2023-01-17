@@ -1,0 +1,19 @@
+package oo.composicao;
+
+public class CarroTeste {
+
+	public static void main(String[] args) {
+		
+		Carro c1 = new Carro();
+		c1.ligar();
+		System.out.println(c1.estaLigado());
+		
+		c1.desligado();
+		System.out.println(c1.estaLigado());
+		
+		
+		
+
+	}
+
+}

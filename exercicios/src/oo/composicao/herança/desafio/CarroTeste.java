@@ -18,10 +18,13 @@ public class CarroTeste {
 		System.out.println( fusca);
 		
 		Fusion fusion = new  Fusion();
+		fusion.ligarTurbo();
+		fusion.acelerar();
 		fusion.acelerar();
 		fusion.acelerar();
 		fusion.acelerar();
 		fusion.frear();
+		fusion.desligarTurbo();
 		
 		System.out.println(fusion);
 	}

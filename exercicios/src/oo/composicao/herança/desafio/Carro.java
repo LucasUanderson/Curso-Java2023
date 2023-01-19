@@ -24,7 +24,7 @@ public class Carro {
 	void frear() {
 		 
 		if(velocidadeAtual >= 5) {
-			velocidadeAtual -= 5;
+			velocidadeAtual -= 10;
 		} else {
 			velocidadeAtual = 0;
 		}			

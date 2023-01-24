@@ -10,6 +10,7 @@ public class CalculoTeste2 {
 		
 		calc = (x , y) -> x * y;
 		System.out.println(calc.executar(6, 10));
+	
 	}
 
 }

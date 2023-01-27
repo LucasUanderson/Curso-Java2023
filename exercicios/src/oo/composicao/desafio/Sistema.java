@@ -4,9 +4,9 @@ public class Sistema {
 
 	public static void main(String[] args) {
 		
-		Cliente cliente = new Cliente ("bia");
+	//	Cliente cliente = new Cliente ("bia");
 		
-		Compra compra1 = new Compra();
+	//	Compra compra1 = new Compra();
 		
 		
 

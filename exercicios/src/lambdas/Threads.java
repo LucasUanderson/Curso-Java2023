@@ -7,10 +7,12 @@ public class Threads {
 		Runnable t1 = new Runnable() {
 
 			public void run() {
-				
+		
 			}
 			
 		};
+		
+		System.out.println(t1);
 	}
 }
 	
